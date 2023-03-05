@@ -11,7 +11,7 @@ To enable Developer Options on an Android device, you can follow these steps:
 6. Set up USB debugging: In the Developer options menu, toggle the switch next to "USB debugging" to the "On" position. This will allow you to debug your device using a computer and the Android Debug Bridge (ADB) tool.
 7. Accept "Allow USB debugging" message: Tap 'OK' on the dialogue message to complete activation of USB debugging and avoid device recognition issues down the line.
 
-<img width="800" alt="Screenshot 2023-03-05 at 6 25 37 AM" src="https://user-images.githubusercontent.com/70295997/222966464-6288f908-ed16-473b-8d6e-514d49862c54.png">
+<img width="800" alt="Screenshot 2023-03-05 at 6 31 30 AM" src="https://user-images.githubusercontent.com/70295997/222966760-99a76f2a-b73c-4b35-8a32-47cbc7624071.png">
 
 Now, connect the mobile device to the dev/test machine via USB cable or WiFi, and the device is ready for app debugging.
 
